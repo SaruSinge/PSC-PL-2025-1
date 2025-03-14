@@ -11,7 +11,7 @@ public static void main(String[] args){
     System .out.println("Digite a sua idade:");
     String idade = scanner.nextLine();
 
-    System .out.println("Olá " + nome + ". Você tem " + idade + " anos. seja bem vindo/a!");
+    System .out.println("Olá " + nome + ". Você tem " + idade + " anos. Seja bem vindo/a!");
 
     }
 }
